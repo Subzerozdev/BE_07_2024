@@ -1,0 +1,14 @@
+D:\ASPNET\Bai01\BE0824\BE0824\bin\Debug\net8.0\BE0824.exe
+D:\ASPNET\Bai01\BE0824\BE0824\bin\Debug\net8.0\BE0824.deps.json
+D:\ASPNET\Bai01\BE0824\BE0824\bin\Debug\net8.0\BE0824.runtimeconfig.json
+D:\ASPNET\Bai01\BE0824\BE0824\bin\Debug\net8.0\BE0824.dll
+D:\ASPNET\Bai01\BE0824\BE0824\bin\Debug\net8.0\BE0824.pdb
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.AssemblyInfoInputs.cache
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.AssemblyInfo.cs
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.csproj.CoreCompileInputs.cache
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.dll
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\refint\BE0824.dll
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.pdb
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.genruntimeconfig.cache
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\ref\BE0824.dll
