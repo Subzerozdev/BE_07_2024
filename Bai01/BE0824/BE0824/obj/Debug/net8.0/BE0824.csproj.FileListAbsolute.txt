@@ -12,3 +12,4 @@ D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\refint\BE0824.dll
 D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.pdb
 D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.genruntimeconfig.cache
 D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\ref\BE0824.dll
+D:\ASPNET\Bai01\BE0824\BE0824\obj\Debug\net8.0\BE0824.sourcelink.json
